@@ -8,7 +8,7 @@ import {
   VrButton,
   Image,
 } from 'react-360';
-
+/*import SurfacrTwoo from './components/SurfaceTwoo.js';*/
 
 const updateSize = (imgWidth,imgHeight, maxSurfaceWidth, maxSurfaceHeight) => {
   let imgSize = { imageWidth:0, imageHeight:0}
